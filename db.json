@@ -1,34 +1,34 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "a"
-    },
-    {
-      "id": 2,
-      "name": "b"
-    }
-  ],
-  "reviews": [
-    {
-      "productId": 1,
-      "averageScore": "4.5",
-      "count": 471
-    },
-    {
-      "productId": 2,
-      "averageScore": "4.5",
-      "count": 471
-    }
-  ],
-  "inventory": [
-    {
-      "productId": 1,
-      "count": 571
-    },
-    {
-      "productId": 2,
-      "count": 671
-    }
-  ]
+   "products":[
+      {
+         "id":1,
+         "name":"a"
+      },
+      {
+         "id":2,
+         "name":"b"
+      }
+   ],
+   "reviews":[
+      {
+         "productId":1,
+         "averageScore":"4.5",
+         "count":471
+      },
+      {
+         "productId":2,
+         "averageScore":"4.5",
+         "count":471
+      }
+   ],
+   "inventory":[
+      {
+         "productId":1,
+         "count":571
+      },
+      {
+         "productId":2,
+         "count":671
+      }
+   ]
 }
